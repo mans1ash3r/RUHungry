@@ -1,7 +1,8 @@
 
 RUHungry is a Java-based restaurant management simulation game. The goal is to manage a fictional restaurant by handling its menu, stock, transactions, and guests while applying key programming concepts such as object-oriented programming, hash tables, and linked lists.
 
-##Features
+Features:
+
 Menu Management: Build and organize the restaurant's menu using hash tables and linked lists.
 Stockroom Management: Keep track of inventory with fast and efficient searching, adding, and updating methods, utilizing hash tables with chaining.
 Transaction Logging: Maintain a detailed record of all activities, including orders, donations, and restocks, in a linked list to generate end-of-day summaries.
