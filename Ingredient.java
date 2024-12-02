@@ -1,12 +1,5 @@
 package restaurant;
 
-/**
- * This file is the data portion of the StockNode
- * 
- * @author Kushi Sharma
- * @author Mary Buist
-*/
-
 public class Ingredient{
 
     private    int ID;          // ingredient ID number
