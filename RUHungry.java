@@ -5,11 +5,6 @@ package restaurant;
  * You will be running RUHungry for a day by seating guests, 
  * taking orders, donation requests and restocking the pantry as necessary.
  * 
- * Compiling and executing:
- * 1. use the run or debug function to run the driver and test your methods 
- * 
- * @author Mary Buist
- * @author Kushi Sharma
 */
 
 public class RUHungry {
